@@ -31,7 +31,7 @@ The Navigation Database Update cards contain:
 The Supplemental cards contain:
 -- Basemap
 -- Obstacle
--- Terrain
+-- Terrain****
 -- Charts*
 -- SafeTaxi
 -- Airport Directory
@@ -39,6 +39,7 @@ The Supplemental cards contain:
 *Garmin claims (source: https://support.garmin.com/en-US/?faq=VUCWYNO2y933It6oYEy0R7) that this item can be omitted for the PFD.
 **The G1000 WILL update its navigation database from either card. However, Garmin discourages this practice as it may cause "mismatch errors" (https://support.garmin.com/en-US/?faq=HN8hNfmiYd7cMxrga5TEd5).
 *** MFD only. Source: https://static.garmin.com/pumac/190-00498-08_0A_Web.pdf
+**** The updater will prompt you to select a terrain resolution. Garmin provides instructions to determine the appropriate resolution to download: https://support.garmin.com/en-US/?faq=E83xnAE2fe9KKt9rSF6PE7
 
 NOTES:
 
