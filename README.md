@@ -6,8 +6,11 @@ Because the Garmin updater utility is Windows/Mac only, virtualization is used.
 ==== HOW TO USE: ====
 
 ./download_updater.sh
+
 ./mksdcard.sh
+
 vagrant up
+
 ./viewer.sh
 
 ==== ADDITIONAL NOTES =====
