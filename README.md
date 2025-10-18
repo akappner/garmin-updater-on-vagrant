@@ -5,11 +5,16 @@ Because the Garmin updater utility is Windows/Mac only, virtualization is used.
 
 ==== HOW TO USE: ====
 
+Install vagrant.
+
+sudo vagrant plugin install winrm 
+sudo vagrant plugin install winrm-elevated
+
 ./download_updater.sh
 
 ./mksdcard.sh
 
-vagrant up
+sudo vagrant up
 
 ./viewer.sh
 
